@@ -19,8 +19,8 @@ A beautiful, weather-responsive task management application that adapts its appe
 
 ## 🚀 Live Demo
 
-- **Frontend**: [Your Frontend URL]
-- **Backend API**: [Your Backend URL]/api
+- **Frontend**: https://to-dofrontend-r6ns.onrender.com
+- **Backend API**: https://taskmanager-fadf.onrender.com/api
 
 ## 🛠️ Tech Stack
 
@@ -229,8 +229,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- GitHub: https://github.com/krish44-g
+- LinkedIn: https://www.linkedin.com/in/siva-krishna-749b36300/
 
 ## 🙏 Acknowledgments
 
