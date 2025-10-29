@@ -21,6 +21,11 @@ A beautiful, weather-responsive task management application that adapts its appe
 
 - **Frontend**: https://to-dofrontend-r6ns.onrender.com
 - **Backend API**: https://taskmanager-fadf.onrender.com/api
+- #### Example Endpoints:
+- `GET /api/todos` → Fetch all todos
+- `POST /api/todos` → Create a new todo
+- `PUT /api/todos/:id` → Update a todo
+- `DELETE /api/todos/:id` → Delete a todo
 
 ## 🛠️ Tech Stack
 
